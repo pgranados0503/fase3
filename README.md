@@ -27,5 +27,5 @@ Uso:
 Roadmap:
 * Se espera que para versiones futura el proyecto genere el documento de forma automatica, ingresando unicamente el correo del cliente, nombre y producto solicitado.
 * La primera fase ya fue completada con exito y subida en este repositorio.
-*
+
 
